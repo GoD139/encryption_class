@@ -1,11 +1,5 @@
 <?php
 
-
-
-
-
-
-
 class Encrypt
 {
        public function __construct( )  {  }
